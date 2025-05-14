@@ -27,7 +27,5 @@ Local Guide is a social app designed for travelers. It allows users to search fo
 3. Apply to connect with the locals you are interested in.
 4. Use the chat feature to communicate with your matches.
 
-## Demo
 
-You can see how this project works in this [video](https://youtu.be/4c8pnUydxaU).
 
